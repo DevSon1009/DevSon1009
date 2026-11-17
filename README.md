@@ -3,7 +3,6 @@
 <p align="center">
   🎓 Sinh viên Công nghệ thông tin – Trường Đại học Thủ Dầu Một<br>
   💻 Software Development | Artificial Intelligence |<br>
-  🛰️ NASA Space Apps Challenge 2026
 </p>
 
 <p align="center">
@@ -14,7 +13,7 @@
 ---
 
 ## 🌐 Socials
-
+ẢNH CÁC THÀNH TÍCH:https://drive.google.com/drive/folders/1HT0lJZaYrgNBMfisk-jSbSt9BdES2P2f?usp=drive_link
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sonzz.nss)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nguyenson3144)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@haison100999)
